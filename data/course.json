@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "dbf2373f-c60d-9f20-47d4-25b38fad341b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Forms of Political Participation: Old and New",
+  "course_description": "How and why do we participate in public life? How do we get drawn into community and political affairs? In this course we examine the associations and networks that connect us to one another and structure our social and political interactions. Readings are drawn from a growing body of research suggesting that the social networks, community norms, and associational activities represented by the concepts of civil society and social capital can have important effects on the functioning of democracy, stability and change in political regimes, the capacity of states to carry out their objectives, and international politics.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.905",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
